@@ -1,0 +1,42 @@
+1.
+第1行 出现4次 qwabcqwabcqwabcqwabc
+第2行 出现2次 qwabcqwabc
+第3行 出现1次 qwabc
+
+2.
+第1行 出现1次 qweyuiasdghj
+第2行 出现1次 sdfhjk
+第3行 出现2次 ertghlkjghfft
+
+3.
+任何一行都没有
+
+4.
+第1行 出现1次 qweasd
+
+5.
+第1行 出现1次 qweasd
+
+6.
+第1行 出现4次 1111cd  2222cd 333cd444cd
+第2行 出现3次 111cd222cd333cd
+第3行 出现1次 1111cd
+
+7.
+第1行 出现4次 1r 2r 3r 4r
+第3行 出现5次 1r 2r3r4r5r
+第4行 出现1次 qwertyuua
+
+8.
+第1行 出现3次 qwe123yui123ghjjk123
+第3行 出现1次 sdfgh123
+第5行 出现1次 dsf123
+第6行 出现1次 sdf123
+
+9.
+第1行 出现1次 qwetyuio1213123abc
+第2行 出现1次 wqetio123abc
+第4行 出现1次 123abc
+
+10.
+任何一行都没有
