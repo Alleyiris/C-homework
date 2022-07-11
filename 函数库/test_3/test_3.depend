@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638883599 source:d:\thunder\test_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"a3_1.h"
+
+1638873789 d:\thunder\test_3\a3_1.h
+
