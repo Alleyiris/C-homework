@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635605828 source:d:\thunder\no2\main.c
+	<stdio.h>
+	<math.h>
+
